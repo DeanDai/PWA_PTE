@@ -1,9 +1,9 @@
 {
     "name": "Learn PTE",
     "short_name": "Learn PTE",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#fff",
+    "background_color": "#3eaf73",
     "theme_color": "#3eaf7c",
     "icons": [
         {
