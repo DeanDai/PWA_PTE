@@ -7,9 +7,9 @@
     "theme_color": "#3eaf7c",
     "icons": [
         {
-            "src": "/PTE120.jpg",
+            "src": "/PTE120.png",
             "sizes": "120x120",
-            "type": "image/jpg"
+            "type": "image/png"
         }
     ]
 }
